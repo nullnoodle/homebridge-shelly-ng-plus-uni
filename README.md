@@ -2,7 +2,10 @@ This is a modified repository with typescript and libraries already compiled - a
 
 Obviously, this is not the ideal path for support.  But I noticed that pull requests are being held up in the official repo.
 
-This only gives single switch support for the plus uni.  The original shellies-ng library is only modified with the new plus-uni class.
+This only gives single switch support for the plus uni.
+
+The original shellies-ng library is only modified with the new plus-uni class.
+The main repository only has the delegate added for the plus-uni
 
 No need to npm install, just download this entire project and add it to your homebridge/node_modules folder.
 
