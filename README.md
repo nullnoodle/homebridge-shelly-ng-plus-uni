@@ -1,3 +1,15 @@
+This is a modified repository with typescript and libraries already compiled - adding support for shelly plus uni.
+
+Obviously, this is not the ideal path for support.  But I noticed that pull requests are being held up in the official repo.
+
+This only gives single switch support for the plus uni.  The original shellies-ng library is only modified with the new plus-uni class.
+
+No need to npm install, just download this entire project and add it to your homebridge/node_modules folder.
+
+Cheers.
+
+
+
 <a href="https://github.com/alexryd/homebridge-shelly-ng"><img src="homebridge-shelly-ng.png" height="120"></a>
 
 # homebridge-shelly-ng
